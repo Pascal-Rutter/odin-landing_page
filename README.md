@@ -1,0 +1,1 @@
+A project to combine the CSS, HTML and Git Skills learned so far. 
