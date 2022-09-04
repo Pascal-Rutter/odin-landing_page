@@ -4,6 +4,9 @@ body{
 
 .hero {
     background-color: #1f2937;
+}
+
+.hero * {
     color: #f9faf8;
 }
 
@@ -23,8 +26,19 @@ body{
 
 button {
     background-color: #3882F6;
-    color: #f9faf8;
     border-radius: 8px;
     padding: 8px;
     width: 100px;
+}
+
+ul {
+    list-style-type: none;
+    display: flex;
+    margin: 0px;
+    padding: 0px;
+}
+
+a {
+    text-decoration: none;
+
 }
