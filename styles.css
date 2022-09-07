@@ -131,3 +131,28 @@ img {
     font-weight: bold;
     font-size: 25px;
 }
+
+.call-to-action {
+    background-color: #3882F6;
+    color: #f9faf8;
+    margin: 80px;
+    margin-left: 160px;
+    margin-right: 160px;
+    border-radius: 10px;
+    display: flex;
+    padding: 40px;
+    padding-left: 80px;
+    padding-right: 80px;
+    justify-content: space-between;
+}
+
+.action-caption {
+    font-weight: bold;
+    font-size: larger;
+}
+
+.action-button {
+    color: #f9faf8;
+    border: #f9faf8 solid;
+    border-radius: 8px;
+}
