@@ -156,3 +156,11 @@ img {
     border: #f9faf8 solid;
     border-radius: 8px;
 }
+
+.footer {
+    display: flex;
+    justify-content: center;
+    background-color: #1f2937;
+    color: #f9faf8;
+    padding: 25px;
+}
